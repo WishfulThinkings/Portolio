@@ -1,1 +1,18 @@
-<h>Hello worldaskldjkoasjd</h>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Hosting Website</title>
+</head>
+<body>
+    <h1>Welcome to Image Hosting</h1>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <input type="file" name="image" accept="image/*" required>
+        <input type="submit" value="Upload Image">
+    </form>
+
+    <h2>Uploaded Images</h2>
+    <div id="imageContainer">
+        <!-- Images will be displayed here -->
+    </div>
+</body>
+</html>
