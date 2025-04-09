@@ -52,7 +52,7 @@ public class arisaScript : MonoBehaviour, ISavable
     public AudioSource musicPlaylist;
     public AudioClip[] musicClip;
 
-    //animator ng putang ina para gumalaw ang hayop tang ina 
+
     public Animator anim;
 
 
