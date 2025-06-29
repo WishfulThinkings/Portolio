@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1516028449488047962
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1516028449488047959}
+  - component: {fileID: 1516028449488047956}
+  - component: {fileID: 1516028449488047957}
+  m_Layer: 0
+  m_Name: SpriteRenderer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1516028449488047959
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1516028449488047962}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1516028449488047956
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1516028449488047962}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: d23a22e4ad6ec9d45a4c467d828c61cf, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 8, y: 4.5}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &1516028449488047957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1516028449488047962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14423a32168cae4ea2d672ac8da878e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  U: {fileID: 21300000, guid: f02fba419edf53842b17bd2d67bf072f, type: 3}
+  L: {fileID: 21300000, guid: ec19351f5067a254da9475e4121a4a37, type: 3}
+  D: {fileID: 21300000, guid: a1c8d34e0fb59844eada3bb5989df8d3, type: 3}
+  R: {fileID: 21300000, guid: d1e486b64363ca24484c75a47455c30b, type: 3}
+  UD: {fileID: 21300000, guid: bdfd930ea22da2d44a4d2abdd0835c63, type: 3}
+  LR: {fileID: 21300000, guid: fd776daf129b3824d830d05c2a15ecea, type: 3}
+  DR: {fileID: 21300000, guid: abb3e7a8c2982f849bd15b9665fa9bf0, type: 3}
+  DRU: {fileID: 21300000, guid: c5a194a04dca05044a2eeadd59a898bd, type: 3}
+  LD: {fileID: 21300000, guid: cbf634eefc01bf342836bd3c3e6d2c97, type: 3}
+  LDR: {fileID: 21300000, guid: f01fdf5d585ed3744974664343f5afaf, type: 3}
+  UL: {fileID: 21300000, guid: a69844b1fda5a3e46919b70e72acf4e8, type: 3}
+  ULD: {fileID: 21300000, guid: 1eeaddac42ff7104fa490c7233fa3904, type: 3}
+  ULR: {fileID: 21300000, guid: 2f28dae548576a845831be478fd6ae7f, type: 3}
+  UR: {fileID: 21300000, guid: 72ff8991697cd9e40ba997342da0dfa1, type: 3}
+  OPEN: {fileID: 21300000, guid: d23a22e4ad6ec9d45a4c467d828c61cf, type: 3}
+  up: 0
+  down: 0
+  left: 0
+  right: 0
+  type: 0
+  normalColor: {r: 0, g: 0, b: 0, a: 1}
+  enterColor: {r: 1, g: 0, b: 0, a: 1}
