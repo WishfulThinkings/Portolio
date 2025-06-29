@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d5ea8dc1d9553440a00f3da40f076bf, type: 3}
+  m_Name: SakuraDialogueStory
+  m_EditorClassIdentifier: 
+  dialogueType: 1
+  dialogues:
+  - name: Sakura
+    dialogue: 'Hi! Welcome to "Start Land Convention!" I''m Sakura, the manager here. '
+  - name: Sakura
+    dialogue: You're in for a fantastic time. This place is teeming with excitement.
+  - name: Sakura
+    dialogue: Our convention is a hub of creativity and entertainment.
+  - name: Sakura
+    dialogue: We have a diverse set of booths, from food stalls, merchandise stalls,
+      vehicle stalls to tech zones, and even a stage.
+  - name: Sakura
+    dialogue: 'You''ll find something for everyone. Explore, have fun, and discover
+      what interests you most! '
+  - name: Sakura
+    dialogue: Ah, yes, our exceptional characters! Hiroshi is our efficient receptionist.
+  - name: Sakura
+    dialogue: He's the man who keeps things running smoothly around here. And then
+      we have his trusty assistant, Satoshi. He's always ready to help.
+  - name: Sakura
+    dialogue: 'Emi is our brilliant right-hand woman, handling the logistics and
+      organization. And Takeo, our friendly face of the convention assistant team,
+      ensures you feel at home '
+  - name: sakura
+    dialogue: I'm glad you're eager to dive in! If you're looking to start your journey,
+      I'd recommend visiting Hiroshi first.
+  - name: sakura
+    dialogue: 'He''ll give you an overview of the convention and make sure you have
+      everything you need to get started. '
+  - name: Sakura
+    dialogue: Ah, yes, our exceptional characters! Hiroshi is our efficient receptionist.
+  - name: sakura
+    dialogue: He's the man who keeps things running smoothly around here. And then
+      we have his trusty assistant, Satoshi.
+  - name: Sakura
+    dialogue: He's always ready to help. Emi is our brilliant right-hand woman, handling
+      the logistics and organization.
+  - name: Sakura
+    dialogue: 'And Takeo, our friendly face of the convention assistant team, ensures
+      you feel at home '
+  - name: Sakura
+    dialogue: 'Hiroshi is our friendly and efficient receptionist. He can guide you
+      through the convention, provide maps, and answer any questions you might have.
+      He''s the go-to person for information about what''s happening at the convention '
+  - name: Sakura
+    dialogue: Emi, our reliable and intelligent assistant, is in charge of keeping
+      our schedule on track. She can help you find specific booths or activities
+      that pique your interest and provide details about special events happening
+      during the convention.
+  - name: Sakura
+    dialogue: 'The best way to navigate and meet new people is to simply explore
+      the convention. Wander around, visit booths that catch your eye, and don''t
+      hesitate to strike up a conversation with fellow attendees. Takeo, the friendly
+      face of our assistant team, is great at introducing you to new friends. You''ll
+      find our attendees are a welcoming bunch! '
+  - name: Sakura
+    dialogue: part 2
+  - name: 
+    dialogue: 

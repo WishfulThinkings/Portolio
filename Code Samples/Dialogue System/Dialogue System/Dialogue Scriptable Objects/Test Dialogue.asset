@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 740529f307ebcaa44b9de2af297ff747, type: 3}
+  m_Name: Test Dialogue
+  m_EditorClassIdentifier: 
+  dialogueType: 0
+  dialogues:
+  - image: {fileID: 0}
+    name: Takeo
+    dialogue: Stackey is a cute monkey that can melt you heart.
+    voice: {fileID: 8300000, guid: 7b1680fbd0e95954abdd8890ec6efe0e, type: 3}
+  - image: {fileID: 0}
+    name: Takeo
+    dialogue: Stackey Stackey Stackey!
+    voice: {fileID: 8300000, guid: 7b1680fbd0e95954abdd8890ec6efe0e, type: 3}
+  - image: {fileID: 0}
+    name: Takeo
+    dialogue: There's a different kind if Stackey based on it's rarity.
+    voice: {fileID: 8300000, guid: 7b1680fbd0e95954abdd8890ec6efe0e, type: 3}
+  - image: {fileID: 0}
+    name: Takeo
+    dialogue: If you saw a Stackey just say Hi!
+    voice: {fileID: 8300000, guid: 7b1680fbd0e95954abdd8890ec6efe0e, type: 3}
+  - image: {fileID: 0}
+    name: Takeo
+    dialogue: Did you know? Conference A has 330 seats inside. Just sit tight, and
+      enjoy the presentation.
+    voice: {fileID: 8300000, guid: 860edb509da66064f867515780f4b156, type: 3}
+  - image: {fileID: 0}
+    name: Takeo
+    dialogue: Enjoy chatting and socializing with friends and other people. Maybe
+      you will learn something new.
+    voice: {fileID: 8300000, guid: 7b1680fbd0e95954abdd8890ec6efe0e, type: 3}

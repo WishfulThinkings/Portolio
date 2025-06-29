@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d5ea8dc1d9553440a00f3da40f076bf, type: 3}
+  m_Name: Part2SakuraAnswerToQuestion3
+  m_EditorClassIdentifier: 
+  dialogueType: 1
+  dialogues:
+  - image: {fileID: 21300000, guid: d31b403d17259eb40a88efd53cba6505, type: 3}
+    name: 
+    dialogue: What's the best way to navigate the convention and meet new people?
+    voice: {fileID: 8300000, guid: 8c6edf886dfcd9e4ea9ce5824c3d1675, type: 3}
+  - image: {fileID: 21300000, guid: d31b403d17259eb40a88efd53cba6505, type: 3}
+    name: Sakura
+    dialogue: The best way to navigate and meet new people is to simply explore the
+      convention. Wander around, visit booths that catch your eye, and don't hesitate
+      to strike up a conversation with fellow attendees.
+    voice: {fileID: 8300000, guid: 6a821d56e38904a4bbcb62990752660a, type: 3}
+  - image: {fileID: 21300000, guid: d31b403d17259eb40a88efd53cba6505, type: 3}
+    name: Sakura
+    dialogue: ' Takeo, the friendly face of our assistant team, is great at introducing
+      you to new friends.'
+    voice: {fileID: 8300000, guid: 331182eae0660a947b1edf5ba750b447, type: 3}
+  - image: {fileID: 21300000, guid: d31b403d17259eb40a88efd53cba6505, type: 3}
+    name: sakura
+    dialogue: 'You''ll find our attendees are a welcoming bunch! '
+    voice: {fileID: 8300000, guid: 4431eb400ece2a741b2ffbeb30c499ee, type: 3}

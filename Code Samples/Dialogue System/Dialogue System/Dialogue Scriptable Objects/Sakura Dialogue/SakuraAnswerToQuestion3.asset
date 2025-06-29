@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d5ea8dc1d9553440a00f3da40f076bf, type: 3}
+  m_Name: SakuraAnswerToQuestion3
+  m_EditorClassIdentifier: 
+  dialogueType: 1
+  dialogues:
+  - image: {fileID: 21300000, guid: d31b403d17259eb40a88efd53cba6505, type: 3}
+    name: 
+    dialogue: 'I''m excited to be here. What can you recommend I do first? '
+    voice: {fileID: 8300000, guid: 8c6edf886dfcd9e4ea9ce5824c3d1675, type: 3}
+  - image: {fileID: 21300000, guid: d31b403d17259eb40a88efd53cba6505, type: 3}
+    name: Sakura
+    dialogue: I'm glad you're eager to dive in!
+    voice: {fileID: 8300000, guid: 3e91fa9e26c49784ebd999c55d4ec1d0, type: 3}
+  - image: {fileID: 21300000, guid: d31b403d17259eb40a88efd53cba6505, type: 3}
+    name: Sakura
+    dialogue: If you're looking to start your journey, I'd recommend visiting Hiroshi
+      first.
+    voice: {fileID: 8300000, guid: 94f2e2f92f42fc244a1fec148b3956ef, type: 3}
+  - image: {fileID: 21300000, guid: d31b403d17259eb40a88efd53cba6505, type: 3}
+    name: Sakura
+    dialogue: He'll give you an overview of the convention and make sure you have
+      everything you need to get started.
+    voice: {fileID: 8300000, guid: 81aeb60242c9fd2469baa54f944c846a, type: 3}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d5ea8dc1d9553440a00f3da40f076bf, type: 3}
+  m_Name: Part2SakuraAnswerToQuestion2
+  m_EditorClassIdentifier: 
+  dialogueType: 1
+  dialogues:
+  - image: {fileID: 21300000, guid: d31b403d17259eb40a88efd53cba6505, type: 3}
+    name: 
+    dialogue: Tell me more about Emi's role here.
+    voice: {fileID: 8300000, guid: 8c6edf886dfcd9e4ea9ce5824c3d1675, type: 3}
+  - image: {fileID: 21300000, guid: d31b403d17259eb40a88efd53cba6505, type: 3}
+    name: Sakura
+    dialogue: Emi, our reliable and intelligent assistant, is in charge of keeping
+      our schedule on track.
+    voice: {fileID: 8300000, guid: c556af5b78f48574fa0e029a9e28b6ee, type: 3}
+  - image: {fileID: 21300000, guid: d31b403d17259eb40a88efd53cba6505, type: 3}
+    name: Sakura
+    dialogue: 'She can help you find specific booths or activities that pique your
+      interest and provide details about special events happening during the convention. '
+    voice: {fileID: 8300000, guid: 996b871948aa0cd46ac35df8d2bb8a42, type: 3}
